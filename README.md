@@ -1,4 +1,4 @@
-# one-peace-DevEmDobro
+# Projeto One Piece - Front-End
 Projeto CSS, HTML e JS feito no intensivo do Dev Em Dobro
 
 ![Gif tela](https://github.com/naira-maximo/one-peace-DevEmDobro/assets/111442399/4e0f02d9-198f-4054-a7ac-e375e99c26d7)
